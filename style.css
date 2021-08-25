@@ -154,7 +154,7 @@ body {
     
 }
 
-div.volume {
+.volume {
     font-family: 'Libre Franklin', sans-serif;
     transition: 0.7s;
     height: 80px;
@@ -163,13 +163,13 @@ div.volume {
     display: flex;
     width: 300px;
     justify-content: center;
-    margin-top: 280px;
+    margin-top: 270px;
     margin-left: 200px;
     align-items: center;
     border-radius: 12px;
 }
 
-div.volume:hover{
+.volume:hover{
     background-color: rgba(0, 0, 0, 0.781);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 4px 10px;
     border-radius: 12px;
@@ -181,7 +181,7 @@ div.volume:hover{
 footer {
     font-family: 'Libre Franklin', sans-serif;
     font-size: 18px;
-    margin-top: 30px;
+    margin-top: 0px;
     text-align: center;
     color: rgba(255, 255, 255, 0.452);
 }
